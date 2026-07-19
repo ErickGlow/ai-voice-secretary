@@ -2,6 +2,8 @@
 
 An n8n workflow that turns a text message in Slack into an actual phone call to a manager, transcribes their spoken reply, routes it back to the right person, and logs it as a task in Odoo — a voice-first "secretary" that sits between a team's chat and a manager's phone.
 
+📹 **[Demo video](./demo/demo.mp4)** — a real end-to-end run of the workflow.
+
 > Business context is anonymized (placeholder names, phone numbers, and channel IDs) — this is a portfolio export of a working automation, not the live production config.
 
 ## How it works
